@@ -9,8 +9,8 @@
 #define INCLUDE_MATH_CAPABILITIES //comment out this line if you want to save storage to disable including math.h and all functions which use it (tostring, tonumber, ^, milesDecimal %, outputstring, milesInt and milesDecimal length)
 
 #include <initializer_list>
-#ifdef INCLUDE_STRING_CAPABILITES
-#include <string.h>
+#ifdef INCLUDE_STRING_CAPABILITIES
+#include <string>
 #endif
 #ifdef INCLUDE_VECTOR_CAPABILITIES
 #include <vector>
