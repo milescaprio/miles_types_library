@@ -1,6 +1,6 @@
 Hello! Thank you for downloading the miles library.
 SEE miles.h, miles.cpp, VERSION.md, and LICENSE.md
-V1.2.0 In-dev
+V1.2.0 In-dev March 2021
 
 This C++ library creates a couple type classes that manage memory themselves and have built-in functions. These types are milesString, milesInt, milesDecimal, and milesArray. Please continue reading and learn about how each of these types behave so you can use them in your programs.
 If you have any questions, comments, or concerns about the library or how to use it, please do not hesitate to email me at punkymunky64@gmail.com!
